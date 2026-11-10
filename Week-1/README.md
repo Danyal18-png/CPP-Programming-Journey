@@ -1,5 +1,17 @@
 # Week 01 - C++ Programming
 
+## Program 1: Hello World
+
+### Source Code
+HelloWorld.cpp
+
+### Output
+Hello World!
+
+### Explanation
+This program displays Hello World! on the screen.
+
+
 This folder contains my first week C++ programs.
 
 ## Topics
