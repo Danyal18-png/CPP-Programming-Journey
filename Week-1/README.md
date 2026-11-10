@@ -20,5 +20,16 @@ Hello World!
 ### Explanation
 This program displays Hello World! on the screen.
 
+## Program 2: Sum of Two Numbers
+
+### Source Code
+SumOfTwoNumbers.cpp
+
+### Output
+    Enter first number: 10
+    Enter second number: 20
+    Sum = 30
+### Explanation
+This program takes two numbers from the user and displays their sum.
 
 
