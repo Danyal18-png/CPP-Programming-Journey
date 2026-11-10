@@ -15,7 +15,7 @@ This folder contains my first week C++ programs.
 HelloWorld.cpp
 
 ### Output
-Hello World!
+    Hello World!
 
 ### Explanation
 This program displays Hello World! on the screen.
