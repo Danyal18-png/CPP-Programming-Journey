@@ -35,5 +35,20 @@ SumOfTwoNumbers.cpp
 ### Explanation
 This program takes two numbers from the user and displays their sum.
 
+## Program 3: Swapping Two Nuumbers
+
+### Source Code
+SwappingTwoNumbers.cpp
+
+### Output
+    Enter first number: 6
+    Enter second number: 7
+    After Swapping:
+    a = 7
+    b = 6
+### Expanation
+This program shows how to take two numbers from user and swapping them.
+    
+
 
 
