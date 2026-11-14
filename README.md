@@ -15,7 +15,7 @@ This folder contains my first week C++ programs.
 ## Program 1: Hello World
 
 ### Source Code
-HelloWorld.cpp
+    HelloWorld.cpp
 
 ### Output
     Hello World!
@@ -26,7 +26,7 @@ This program displays Hello World! on the screen.
 ## Program 2: Sum of Two Numbers
 
 ### Source Code
-SumOfTwoNumbers.cpp
+    SumOfTwoNumbers.cpp
 
 ### Output
     Enter first number: 10
@@ -38,7 +38,7 @@ This program takes two numbers from the user and displays their sum.
 ## Program 3: Swapping Two Nuumbers
 
 ### Source Code
-SwappingTwoNumbers.cpp
+    SwappingTwoNumbers.cpp
 
 ### Output
     Enter first number: 6
@@ -48,7 +48,16 @@ SwappingTwoNumbers.cpp
     b = 6
 ### Expanation
 This program shows how to take two numbers from user and swapping them.
+
+## Program 4: Area of Rectangle
+
+### Source Code
+    AreaOfRectangle.cpp
     
-
-
+### Output
+    Enter your length: 5.8
+    Enter your width: 4.3
+    Area of rectangle is = 24.94
+### Explanation
+This program shows the area of rectangle.
 
