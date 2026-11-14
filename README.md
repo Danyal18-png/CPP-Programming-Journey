@@ -201,7 +201,7 @@ This program converts temperature from Celsius to Fahrenheit using the formula F
     Seconds = 0
 
 ### Explanation
-This program shows how we can calculate seconds into minutes, hours and remaining seconds.
+This program converts a given time in seconds into hours, remaining minutes, and remaining seconds using division and modulus operators.
 
 ## Program 16: Final Salary
 
