@@ -88,3 +88,17 @@ This program shows the total price after giving discount to the customer.
 ### Explanation
 This program shows how to convert days into weeks, years and remaining days.
 
+## Program 7: Calculate Gross Salary
+
+### Source Code
+    GrossSalary.cpp
+
+### Output
+    Enter basic salary: 670000 
+    House rent allowance = 13400
+    Medical allowance = 6700
+    Gross Salary = 87100
+
+### Explanation
+This program shows how we can calculate gross salary.
+
