@@ -188,3 +188,17 @@ This program shows how we can calculate the area of circle.
 
 ### Explanation
 This program shows how we can calculate temperature of celsius into farenheit.
+
+## Program 15: Seconds into minutes and hours
+
+### Source code
+    Week-1/SecondsIntoMinutesAndHours.cpp
+
+### Output
+    Enter total seconds: 579000
+    Hours = 160
+    Minutes = 9650
+    Seconds = 0
+
+### Explanation
+This program shows how we can calculate seconds into minutes, hours and remaining seconds.
