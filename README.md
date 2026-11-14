@@ -227,3 +227,16 @@ This program shows how we can calculate final salary after giving discount.
 
 ### Explanation
 This program shows how we can calculate perimeter of any side.
+
+## Program 18: Marks and Percentage
+
+### Source code
+    Week-1/MarksAndPercentage.cpp
+
+### Output
+    Enter marks of five subjects: 60 50 40 90 80
+    Total marks = 320
+    Percentage = 64%
+
+### Explanation
+This program shows how we can calculate marks and percentage of result.
