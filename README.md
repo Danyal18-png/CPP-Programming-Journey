@@ -215,3 +215,15 @@ This program shows how we can calculate seconds into minutes, hours and remainin
 
 ### Explanation
 This program shows how we can calculate final salary after giving discount.
+
+## Program 17: Perimeter of side
+
+### Source code
+    Week-1/PerimeterOfSide.cpp
+
+### Output
+    Enter side: 8
+    Perimeter of square is = 32
+
+### Explanation
+This program shows how we can calculate perimeter of any side.
