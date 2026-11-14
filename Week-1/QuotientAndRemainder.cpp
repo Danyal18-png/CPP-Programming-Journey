@@ -9,7 +9,7 @@ int main() {
    quotient = a / b;
    remainder = a % b;
    
-   cout << "Qoutient is = " << quotient << endl;
+   cout << "Quotient is = " << quotient << endl;
    cout << "Remainder is = " << remainder;
    
    return 0;
