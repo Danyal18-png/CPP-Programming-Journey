@@ -214,7 +214,7 @@ This program shows how we can calculate seconds into minutes, hours and remainin
     Total Salary = 63000
 
 ### Explanation
-This program shows how we can calculate final salary after giving discount.
+This program calculates the final salary by adding a bonus to the basic salary.
 
 ## Program 17: Perimeter of side
 
