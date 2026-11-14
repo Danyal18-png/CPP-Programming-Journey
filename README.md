@@ -151,3 +151,16 @@ This program shows how we can calculate quotient and remainder of any two number
 
 ### Explanation 
 This program shows how we can calculate the average of any three numbers.
+
+## Program 12: Perimeter of Rectangle
+
+### Source code
+    Week-1/PerimeterOfRectangle.cpp
+
+### Output
+    Enter your length: 5.7
+    Enter your width: 8.1
+    Perimeter of Rectangle is = 27.6
+
+### Explanation
+This program shows how we can calculate perimeter of rectangle.
