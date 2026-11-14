@@ -114,3 +114,15 @@ This program shows how we can calculate gross salary.
 ### Explanation
 This program shows how we can convert height from inches.
 
+## Program 9: Calculate Power of Number
+
+### Source code
+    PowerOfNumber.cpp
+    
+### Output
+    Enter your number: 7
+    Square is = 49
+    Cube is = 343
+
+### Explanation
+This program shows how we can calculate power of any number.
