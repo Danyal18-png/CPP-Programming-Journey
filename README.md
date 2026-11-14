@@ -197,7 +197,7 @@ This program shows how we can calculate temperature of celsius into fahrenheit.
 ### Output
     Enter total seconds: 579000
     Hours = 160
-    Minutes = 9650
+    Minutes = 0
     Seconds = 0
 
 ### Explanation
