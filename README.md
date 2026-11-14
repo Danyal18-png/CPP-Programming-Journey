@@ -74,3 +74,17 @@ This program shows the area of rectangle.
 ### Explanation
 This program shows the total price after giving discount to the customer.
 
+## Program 6: Days into weeks and years
+
+### Source Code
+    DaysIntoWeeksYears.cpp
+
+### Output
+    Enter total days: 785
+    Years = 2
+    Weeks = 7
+    Days = 6
+
+### Explanation
+This program shows how to convert days into weeks, years and remaining days.
+
