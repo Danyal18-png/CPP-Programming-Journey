@@ -35,7 +35,7 @@ This program displays Hello World! on the screen.
 ### Explanation
 This program takes two numbers from the user and displays their sum.
 
-## Program 3: Swapping Two Nuumbers
+## Program 3: Swapping Two Numbers
 
 ### Source Code
     SwappingTwoNumbers.cpp
