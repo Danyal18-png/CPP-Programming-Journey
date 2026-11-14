@@ -216,17 +216,17 @@ This program shows how we can calculate seconds into minutes, hours and remainin
 ### Explanation
 This program calculates the final salary by adding a bonus to the basic salary.
 
-## Program 17: Perimeter of side
+## Program 17: Perimeter of square
 
 ### Source code
-    Week-1/PerimeterOfSide.cpp
+    Week-1/PerimeterOfSquare.cpp
 
 ### Output
-    Enter side: 8
-    Perimeter of square is = 32
+    Enter side of square: 5
+    Perimeter of square = 20
 
 ### Explanation
-This program shows how we can calculate perimeter of any side.
+This program calculates the perimeter of a square using four times its side length.
 
 ## Program 18: Marks and Percentage
 
