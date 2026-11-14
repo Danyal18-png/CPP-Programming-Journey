@@ -94,7 +94,7 @@ This program shows how to convert days into weeks, years and remaining days.
     GrossSalary.cpp
 
 ### Output
-    Enter basic salary: 670000 
+    Enter basic salary: 670000
     House rent allowance = 13400
     Medical allowance = 6700
     Gross Salary = 87100
