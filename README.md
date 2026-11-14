@@ -15,7 +15,7 @@ This folder contains my first week C++ programs.
 ## Program 1: Hello World
 
 ### Source code
-    HelloWorld.cpp
+    Week-1/HelloWorld.cpp
 
 ### Output
     Hello World!
@@ -26,7 +26,7 @@ This program displays Hello World! on the screen.
 ## Program 2: Sum of Two Numbers
 
 ### Source code
-    SumOfTwoNumbers.cpp
+    Week-1/SumOfTwoNumbers.cpp
 
 ### Output
     Enter first number: 10
@@ -38,7 +38,7 @@ This program takes two numbers from the user and displays their sum.
 ## Program 3: Swapping Two Numbers
 
 ### Source code
-    SwappingTwoNumbers.cpp
+    Week-1/SwappingTwoNumbers.cpp
 
 ### Output
     Enter first number: 6
@@ -52,7 +52,7 @@ This program shows how to take two numbers from user and swapping them.
 ## Program 4: Area of Rectangle
 
 ### Source code
-    AreaOfRectangle.cpp
+    Week-1/AreaOfRectangle.cpp
     
 ### Output
     Enter your length: 5.8
@@ -64,7 +64,7 @@ This program shows the area of rectangle.
 ## Program 5: Final Price after giving Discount
 
 ### Source code
-    FinalPriceAfterDiscount.cpp
+    Week-1/FinalPriceAfterDiscount.cpp
 
 ### Output
     Enter product price: 5890
@@ -77,7 +77,7 @@ This program shows the total price after giving discount to the customer.
 ## Program 6: Days into weeks and years
 
 ### Source code
-    DaysIntoWeeksYears.cpp
+    Week-1/DaysIntoWeeksYears.cpp
 
 ### Output
     Enter total days: 785
@@ -88,10 +88,10 @@ This program shows the total price after giving discount to the customer.
 ### Explanation
 This program shows how to convert days into weeks, years and remaining days.
 
-## Program 7: Calculate Gross Salary
+## Program 7: Gross Salary
 
 ### Source code
-    GrossSalary.cpp
+    Week-1/GrossSalary.cpp
 
 ### Output
     Enter basic salary: 670000
@@ -102,10 +102,10 @@ This program shows how to convert days into weeks, years and remaining days.
 ### Explanation
 This program shows how we can calculate gross salary.
 
-## Program 8: Convert Height from Inches
+## Program 8: Height from Inches
 
 ### Source code
-    HeightFromInches.cpp
+    Week-1/HeightFromInches.cpp
 
 ### Output
     Enter your height: 5.6
@@ -114,10 +114,10 @@ This program shows how we can calculate gross salary.
 ### Explanation
 This program shows how we can convert height from inches.
 
-## Program 9: Calculate Power of Number
+## Program 9: Power of Number
 
 ### Source code
-    PowerOfNumber.cpp
+    Week-1/PowerOfNumber.cpp
     
 ### Output
     Enter your number: 7
@@ -127,10 +127,10 @@ This program shows how we can convert height from inches.
 ### Explanation
 This program shows how we can calculate power of any number.
 
-## Program 10: Calculate Quotient and Remainder
+## Program 10: Quotient and Remainder
 
 ### Source code
-    QuotientAndRemainder.cpp
+    Week-1/QuotientAndRemainder.cpp
 
 ### Output
     Enter two numbers: 10 6
@@ -139,3 +139,15 @@ This program shows how we can calculate power of any number.
 
 ### Explanation
 This program shows how we can calculate quotient and remainder of any two numbers.
+
+## Program 11: Average of Three Numbers
+
+### Source code
+    Week-1/AverageOfThreeNumbers.cpp
+
+### Output
+    Enter three numbers: 9 3n  8
+    Average = 6.66667
+
+### Explanation 
+This program shows how we can calculate the average of any three numbers.
