@@ -202,3 +202,16 @@ This program shows how we can calculate temperature of celsius into farenheit.
 
 ### Explanation
 This program shows how we can calculate seconds into minutes, hours and remaining seconds.
+
+## Program 16: Final Salary
+
+### Source code
+    Week-1/FinalSalary.cpp
+
+### Output
+    Enter basic salary: 52000
+    Enter bonus: 11000
+    Total Salary = 63000
+
+### Explanation
+This program shows how we can calculate final salary after giving discount.
