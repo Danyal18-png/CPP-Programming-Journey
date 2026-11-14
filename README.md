@@ -61,3 +61,16 @@ This program shows how to take two numbers from user and swapping them.
 ### Explanation
 This program shows the area of rectangle.
 
+## Program 5: Final Price after giving Discount
+
+### Source Code
+    FinalPriceAfterDiscount.cpp
+
+### Output
+    Enter product price: 5890
+    Discount is = 589
+    Your Final Price is = 5301
+
+### Explanation
+This program shows the total price after giving discount to the customer.
+
