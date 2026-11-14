@@ -146,7 +146,7 @@ This program shows how we can calculate quotient and remainder of any two number
     Week-1/AverageOfThreeNumbers.cpp
 
 ### Output
-    Enter three numbers: 9 3n  8
+    Enter three numbers: 9 3 8
     Average = 6.66667
 
 ### Explanation 
