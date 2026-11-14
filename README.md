@@ -14,7 +14,7 @@ This folder contains my first week C++ programs.
   
 ## Program 1: Hello World
 
-### Source Code
+### Source code
     HelloWorld.cpp
 
 ### Output
@@ -25,7 +25,7 @@ This program displays Hello World! on the screen.
 
 ## Program 2: Sum of Two Numbers
 
-### Source Code
+### Source code
     SumOfTwoNumbers.cpp
 
 ### Output
@@ -37,7 +37,7 @@ This program takes two numbers from the user and displays their sum.
 
 ## Program 3: Swapping Two Numbers
 
-### Source Code
+### Source code
     SwappingTwoNumbers.cpp
 
 ### Output
@@ -51,7 +51,7 @@ This program shows how to take two numbers from user and swapping them.
 
 ## Program 4: Area of Rectangle
 
-### Source Code
+### Source code
     AreaOfRectangle.cpp
     
 ### Output
@@ -63,7 +63,7 @@ This program shows the area of rectangle.
 
 ## Program 5: Final Price after giving Discount
 
-### Source Code
+### Source code
     FinalPriceAfterDiscount.cpp
 
 ### Output
@@ -76,7 +76,7 @@ This program shows the total price after giving discount to the customer.
 
 ## Program 6: Days into weeks and years
 
-### Source Code
+### Source code
     DaysIntoWeeksYears.cpp
 
 ### Output
@@ -90,7 +90,7 @@ This program shows how to convert days into weeks, years and remaining days.
 
 ## Program 7: Calculate Gross Salary
 
-### Source Code
+### Source code
     GrossSalary.cpp
 
 ### Output
@@ -101,4 +101,16 @@ This program shows how to convert days into weeks, years and remaining days.
 
 ### Explanation
 This program shows how we can calculate gross salary.
+
+## Program 8: Convert Height from Inches
+
+### Source code
+    HeightFromInches.cpp
+
+### Output
+    Enter your height: 5.6
+    Your Height in cm = 14.224
+
+### Explanation
+This program shows how we can convert height from inches.
 
