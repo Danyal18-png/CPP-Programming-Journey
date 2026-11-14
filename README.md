@@ -175,7 +175,7 @@ This program shows how we can calculate perimeter of rectangle.
     Area of circle is = 140.955
 
 ### Explanation 
-This program shows how we can calculate the area of circle.
+This program calculates the area of a circle using the formula A = π × r × r, where r represents the radius of the circle and π is approximately 3.14.
 
 ## Program 14: Celsius to Fahrenheit
 
@@ -187,7 +187,7 @@ This program shows how we can calculate the area of circle.
     Temperature in Fahrenheit = 82.4
 
 ### Explanation
-This program shows how we can calculate temperature of celsius into fahrenheit.
+This program converts temperature from Celsius to Fahrenheit using the formula F = (C × 9/5) + 32, where C represents temperature in Celsius and F represents temperature in Fahrenheit.
 
 ## Program 15: Seconds into minutes and hours
 
