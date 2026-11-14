@@ -46,7 +46,7 @@ This program takes two numbers from the user and displays their sum.
     After Swapping:
     a = 7
     b = 6
-### Expanation
+### Explanation
 This program shows how to take two numbers from user and swapping them.
 
 ## Program 4: Area of Rectangle
