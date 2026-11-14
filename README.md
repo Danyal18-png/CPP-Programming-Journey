@@ -164,3 +164,15 @@ This program shows how we can calculate the average of any three numbers.
 
 ### Explanation
 This program shows how we can calculate perimeter of rectangle.
+
+## Program 13: Area of Circle
+
+### Source code
+    Week-1/AreaOfCircle.cpp
+
+### Output
+    Enter your radius: 6.7
+    Area of circle is = 140.955
+
+### Explanation 
+This program shows how we can calculate the area of circle.
