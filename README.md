@@ -112,7 +112,7 @@ This program shows how we can calculate gross salary.
     Your Height in cm = 14.224
 
 ### Explanation
-This program shows how we can convert height from inches.
+This program converts a given height from inches into centimeters using the conversion factor 1 inch = 2.54 centimeters.
 
 ## Program 9: Power of Number
 
