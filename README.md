@@ -134,7 +134,7 @@ This program shows how we can calculate power of any number.
 
 ### Output
     Enter two numbers: 10 6
-    Qoutient is = 1
+    Quotient is = 1
     Remainder is = 4
 
 ### Explanation
