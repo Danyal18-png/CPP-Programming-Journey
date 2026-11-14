@@ -176,3 +176,15 @@ This program shows how we can calculate perimeter of rectangle.
 
 ### Explanation 
 This program shows how we can calculate the area of circle.
+
+## Program 14: Celsius into Farenheit
+
+### Source code
+    Week-1/CelsiusIntoFarenheit.cpp
+
+### Output
+    Enter temperature in celsius: 28
+    Temperature in Farenheit = 82.4
+
+### Explanation
+This program shows how we can calculate temperature of celsius into farenheit.
