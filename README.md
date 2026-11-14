@@ -126,3 +126,16 @@ This program shows how we can convert height from inches.
 
 ### Explanation
 This program shows how we can calculate power of any number.
+
+## Program 10: Calculate Quotient and Remainder
+
+### Source code
+    QuotientAndRemainder.cpp
+
+### Output
+    Enter two numbers: 10 6
+    Qoutient is = 1
+    Remainder is = 4
+
+### Explanation
+This program shows how we can calculate quotient and remainder of any two numbers.
