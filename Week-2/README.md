@@ -221,7 +221,7 @@ This program finds the larger of two given numbers.
     Positive Number
 
 ### Explanation
-This program shows who we can calculate the positive, negative or zero.
+This program checks whether a given number is positive, negative, or zero.
 
 ## Program 15: Odd or Even
 
