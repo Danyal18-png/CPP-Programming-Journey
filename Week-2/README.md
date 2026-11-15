@@ -122,3 +122,23 @@ This program shows who we can calculate the table of any number.
 
 ### Explanation
 This program shows who we can calculate to print the numbers using do-while loop.
+
+## Program 8: Using while Loop
+
+### Source code
+    Week-2/PrintUsingWhileLoop.cpp
+
+### Output
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+
+### Explanation
+his program shows who we can calculate to print the numbers using while loop.
