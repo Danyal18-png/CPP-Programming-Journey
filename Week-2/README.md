@@ -81,3 +81,24 @@ This program shows who we can calculate the reverse counting.
 
 ### Explanation
 This program shows who we can calculate the factorial of any number.
+
+## Program 6: Table
+
+### Source code
+    Week-2/Table.cpp
+
+### Output
+    Enter a number: 7
+    7X1=7
+    7X2=14
+    7X3=21
+    7X4=28
+    7X5=35
+    7X6=42
+    7X7=49
+    7X8=56
+    7X9=63
+    7X10=70
+
+### Explanation
+This program shows who we can calculate the table of any number.
