@@ -173,7 +173,7 @@ This program performs addition, subtraction, multiplication, and division on two
     Grade B
 
 ### Explanation
-This program shows who we can calculate the grade of any student using marks.
+This program determines a student's grade based on their marks.
 
 ## Program 11: Voting Eligible
 
