@@ -203,3 +203,15 @@ This program shows who we can calculate the largest of three numbers.
 
 ### Explanation
 This program shows who we can calculate the largest of two numbers.
+
+## Program 14: Positive, Negative or Zero
+
+### Source code
+    Week-2/PositiveNegativeOrZero.cpp
+
+### Output
+    Enter your number: 7
+    Positive Number
+
+### Explanation
+This program shows who we can calculate the positive, negative or zero.
