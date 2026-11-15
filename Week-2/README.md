@@ -155,3 +155,15 @@ This program shows who we can calculate to print the numbers using while loop.
 
 ### Explanation
 This program shows who we can calculate sum, product, multiplication and division of any two numbers.
+
+## Program 10: Grade according to Marks
+
+### Source code
+    Week-2/GradeAccordingToMarks.cpp
+
+### Output
+    Enter your Marks: 79
+    Grade B
+
+### Explanation
+This program shows who we can calculate the grade of any student using marks.
