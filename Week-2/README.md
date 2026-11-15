@@ -12,8 +12,15 @@ This folder contains my second week C++ programs.
 - else-if Ladder
 - Relational Operators
 - Logical Operators
-- Conditional Problem Solving
-
+- for Loop
+- while Loop
+- do-while Loop
+- Loop Control and Iteration
+- Number Series
+- Factorial
+- Prime Number
+- Problem Solving Using Loops
+- 
 ## Program 1: Prime Number
 
 ### Source code
