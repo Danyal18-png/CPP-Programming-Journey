@@ -31,7 +31,7 @@ This folder contains my second week C++ programs.
     Not a Prime number
 
 ### Explanation
-This program shows who we can calculate or check whether the number is prime or not.
+This program checks whether a given number is prime or not.
 
 ## Program 2: Sum of natural numbers
 
@@ -43,9 +43,9 @@ This program shows who we can calculate or check whether the number is prime or 
     Sum = 21
 
 ### Explanation
-This program shows who we can calculate sum of any natural number.
+This program calculates the sum of natural numbers up to a given number.
 
-## Program 3: Fabonacci series
+## Program 3: Fabonacci Series
 
 ### Source code
     Week-2/FabonacciSeries.cpp
@@ -55,7 +55,7 @@ This program shows who we can calculate sum of any natural number.
     0 1 1 2 3 5 8 13 21 
 
 ### Explanation
-This program shows who we can calculate fabonacci series of any number of terms.
+This program generates the Fibonacci series up to a given number of terms.
 
 ## Program 4: Reverse counting
 
