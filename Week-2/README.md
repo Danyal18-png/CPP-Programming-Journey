@@ -248,7 +248,7 @@ This program checks whether a given number is odd or even.
     5
     6
     7
-    8 
+    8
     9
     10
 
