@@ -89,7 +89,7 @@ This program prints numbers in reverse order, from 10 to 1.
 ### Explanation
 This program calculates the factorial of a given number.
 
-## Program 6: Table
+## Program 6: Multiplication Table
 
 ### Source code
     Week-2/Table.cpp
