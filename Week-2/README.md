@@ -69,3 +69,15 @@ This program shows who we can calculate fabonacci series of any number of terms.
 
 ### Explanation
 This program shows who we can calculate the reverse counting.
+
+## Program 5: Factorial
+
+### Source code
+    Week-2/Factorial.cpp
+
+### Output
+    Enter your number: 10
+    Factorial = 3628800
+
+### Explanation
+This program shows who we can calculate the factorial of any number.
