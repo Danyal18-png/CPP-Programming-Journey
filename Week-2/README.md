@@ -2,7 +2,7 @@
 My C++ programming practice, university exercises, and beginner projects.
 
 ## Week 2: C++ Programming
-This folder contains my second week C++ programs.
+This folder contains my C++ programming practice and programs completed during Week 2.
 
 ## Topics
 - Decision Making in C++
