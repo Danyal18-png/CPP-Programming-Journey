@@ -48,7 +48,7 @@ This program calculates the sum of natural numbers up to a given number.
 ## Program 3: Fibonacci Series
 
 ### Source code
-    Week-2/FabonacciSeries.cpp
+    Week-2/FibonacciSeries.cpp
 
 ### Output
     Enter number of terms: 9
@@ -87,7 +87,7 @@ This program prints numbers in reverse order, from 10 to 1.
     Factorial = 3628800
 
 ### Explanation
-This program shows who we can calculate the factorial of any number.
+This program calculates the factorial of a given number.
 
 ## Program 6: Table
 
