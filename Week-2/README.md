@@ -209,7 +209,7 @@ This program finds the largest among three given numbers.
     9 is largest
 
 ### Explanation
-This program shows who we can calculate the largest of two numbers.
+This program finds the larger of two given numbers.
 
 ## Program 14: Positive, Negative or Zero
 
