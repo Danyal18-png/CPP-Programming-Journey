@@ -52,7 +52,7 @@ This program calculates the sum of natural numbers up to a given number.
 
 ### Output
     Enter number of terms: 9
-    0 1 1 2 3 5 8 13 21 
+    0 1 1 2 3 5 8 13 21
 
 ### Explanation
 This program generates the Fibonacci series up to a given number of terms.
