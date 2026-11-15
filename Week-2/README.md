@@ -179,3 +179,15 @@ This program shows who we can calculate the grade of any student using marks.
 
 ### Explanation
 This program shows who we can calculate the eligible of person voting.
+
+## Program 12: Largest of three numbers
+
+### Source code
+    Week-2/LargestOfThreeNumbers.cpp
+
+### Output
+    Enter three numbers: 4 7 9
+    9 is largest
+
+### Explanation
+This program shows who we can calculate the largest of three numbers.
