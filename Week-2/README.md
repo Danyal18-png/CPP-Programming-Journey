@@ -57,7 +57,7 @@ This program calculates the sum of natural numbers up to a given number.
 ### Explanation
 This program generates the Fibonacci series up to a given number of terms.
 
-## Program 4: Reverse Counting
+## Program 4: Reverse Counting from 10 to 1
 
 ### Source code
     Week-2/ReverseCounting.cpp
