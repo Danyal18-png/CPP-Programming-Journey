@@ -175,7 +175,7 @@ This program performs addition, subtraction, multiplication, and division on two
 ### Explanation
 This program determines a student's grade based on their marks.
 
-## Program 11: Voting Eligible
+## Program 11: Voting Eligibility
 
 ### Source code
     Week-2/VotingEligible.cpp
