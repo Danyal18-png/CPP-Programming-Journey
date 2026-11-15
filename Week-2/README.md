@@ -34,8 +34,7 @@ This program checks whether a given number is prime or not.
 
 ## Program 2: Sum of Natural Numbers
 
-### Source code
-[PrimeNumber.cpp](./PrimeNumber.cpp)
+**Source Code:** [SumOFNaturalNumbers.cpp](./SumOFNaturalNumbers.cpp)
 
 ### Output
     Enter your number: 6
@@ -46,8 +45,7 @@ This program calculates the sum of natural numbers up to a given number.
 
 ## Program 3: Fibonacci Series
 
-### Source code
-    Week-2/FibonacciSeries.cpp
+**Source Code:** [FibonacciSeries.cpp](./FibonacciSeries.cpp)
 
 ### Output
     Enter number of terms: 9
@@ -58,8 +56,7 @@ This program generates the Fibonacci series up to a given number of terms.
 
 ## Program 4: Reverse Counting from 10 to 1
 
-### Source code
-    Week-2/ReverseCounting.cpp
+**Source Code:** [ReverseCounting.cpp](./ReverseCounting.cpp)
 
 ### Output
     10
@@ -78,8 +75,7 @@ This program prints numbers in reverse order, from 10 to 1.
 
 ## Program 5: Factorial
 
-### Source code
-    Week-2/Factorial.cpp
+**Source Code:** [Factorial.cpp](./Factorial.cpp)
 
 ### Output
     Enter your number: 10
@@ -90,8 +86,7 @@ This program calculates the factorial of a given number.
 
 ## Program 6: Multiplication Table
 
-### Source code
-    Week-2/Table.cpp
+**Source Code:** [Table.cpp](./Table.cpp)
 
 ### Output
     Enter a number: 7
@@ -111,8 +106,7 @@ This program prints the multiplication table of a given number.
 
 ## Program 7: Using do-while Loop
 
-### Source code
-    Week-2/PrintUsingDo-WhileLoop.cpp
+**Source Code:** [PrintUsingDo-WhileLoop.cpp](./PrintUsingDo-WhileLoop.cpp)
 
 ### Output
     1
@@ -131,8 +125,7 @@ This program prints numbers from 1 to 10 using a do-while loop.
 
 ## Program 8: Using while Loop
 
-### Source code
-    Week-2/PrintUsingWhileLoop.cpp
+**Source Code:** [PrintUsingWhileLoop.cpp](./PrintUsingWhileLoop.cpp)
 
 ### Output
     1
@@ -151,8 +144,7 @@ This program prints numbers from 1 to 10 using a while loop.
 
 ## Program 9: Calculator
 
-### Source code
-    Week-2/Calculator.cpp
+**Source Code:** [Calculator.cpp](./Calculator.cpp)
 
 ### Output
     Enter two numbers: 7 9
@@ -164,8 +156,7 @@ This program performs addition, subtraction, multiplication, and division on two
 
 ## Program 10: Grade According to Marks
 
-### Source code
-    Week-2/GradeAccordingToMarks.cpp
+**Source Code:** [GradeAccordingToMarks.cpp](./GradeAccordingToMarks.cpp)
 
 ### Output
     Enter your Marks: 79
@@ -176,8 +167,7 @@ This program determines a student's grade based on their marks.
 
 ## Program 11: Voting Eligibility
 
-### Source code
-    Week-2/VotingEligible.cpp
+**Source Code:** [VotingEligible.cpp](./VotingEligible.cpp)
 
 ### Output
     Enter your age: 20
@@ -188,8 +178,7 @@ This program checks whether a person is eligible to vote based on their age.
 
 ## Program 12: Largest of Three Numbers
 
-### Source code
-    Week-2/LargestOfThreeNumbers.cpp
+**Source Code:** [LargestOfThreeNumbers.cpp](./LargestOfThreeNumbers.cpp)
 
 ### Output
     Enter three numbers: 4 7 9
@@ -200,8 +189,7 @@ This program finds the largest among three given numbers.
 
 ## Program 13: Largest of Two Numbers
 
-### Source code
-    Week-2/LargestOfTwoNumbers.cpp
+**Source Code:** [LargestOfTwoNumbers.cpp](./LargestOfTwoNumbers.cpp)
 
 ### Output
     Enter two numbers: 6 9
@@ -212,8 +200,7 @@ This program finds the larger of two given numbers.
 
 ## Program 14: Positive, Negative or Zero
 
-### Source code
-    Week-2/PositiveNegativeOrZero.cpp
+**Source Code:** [PositiveNegativeOrZero.cpp](./PositiveNegativeOrZero.cpp)
 
 ### Output
     Enter your number: 7
@@ -224,8 +211,7 @@ This program checks whether a given number is positive, negative, or zero.
 
 ## Program 15: Odd or Even
 
-### Source code
-    Week-2/OddOrEven.cpp
+**Source Code:** [OddOrEven.cpp](./OddOrEven.cpp)
 
 ### Output
     Enter your number: 6
@@ -236,8 +222,7 @@ This program checks whether a given number is odd or even.
 
 ## Program 16: Using for Loop
 
-### Source code
-    Week-2/PrintUsingForLoop.cpp
+**Source Code:** [PrintUsingForLoop.cpp](./PrintUsingForLoop.cpp)
 
 ### Output
     1
