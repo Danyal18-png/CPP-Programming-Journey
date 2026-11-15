@@ -1,7 +1,7 @@
 # C++ Programming Journey
 My C++ programming practice, university exercises, and beginner projects.
 
-# Week 02 - C++ Programming
+## Week 2: C++ Programming
 This folder contains my second week C++ programs.
 
 ## Topics
