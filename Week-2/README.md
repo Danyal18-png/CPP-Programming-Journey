@@ -49,3 +49,23 @@ This program shows who we can calculate sum of any natural number.
 
 ### Explanation
 This program shows who we can calculate fabonacci series of any number of terms.
+
+## Program 4: Reverse counting
+
+### Source code
+    Week-2/ReverseCounting.cpp
+
+### Output
+    10
+    9
+    8
+    7
+    6
+    5
+    4
+    3
+    2
+    1
+
+### Explanation
+This program shows who we can calculate the reverse counting.
