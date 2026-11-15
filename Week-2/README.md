@@ -23,8 +23,7 @@ This folder contains my C++ programming practice and programs completed during W
 
 ## Program 1: Prime Number
 
-### Source code
-    [PrimeNumber.cpp](PrimeNumber.cpp)
+**Source Code:** [PrimeNumber.cpp](./PrimeNumber.cpp)
 
 ### Output
     Enter your number: 9
