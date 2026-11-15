@@ -25,3 +25,15 @@ This folder contains my second week C++ programs.
 
 ### Explanation
 This program shows who we can calculate or check whether the number is prime or not.
+
+## Program 2: Sum of natural numbers
+
+### Source code
+    Week-2/SumOFNaturalNumbers.cpp
+
+### Output
+    Enter your number: 6
+    Sum = 21
+
+### Explanation
+This program shows who we can calculate sum of any natural number.
