@@ -227,3 +227,23 @@ This program shows who we can calculate the positive, negative or zero.
 
 ### Explanation
 This program shows who we can calculate the odd or even of any number.
+
+## Program 16: Using for Loop
+
+### Source code
+    Week-2/PrintUsingForLoop.cpp
+
+### Output
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8 
+    9
+    10
+
+### Explanation
+This program shows who we can calculate to print the numbers using for loop.
