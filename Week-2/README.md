@@ -36,7 +36,7 @@ This program checks whether a given number is prime or not.
 ## Program 2: Sum of Natural Numbers
 
 ### Source code
-    Week-2/SumOFNaturalNumbers.cpp
+[PrimeNumber.cpp](./PrimeNumber.cpp)
 
 ### Output
     Enter your number: 6
