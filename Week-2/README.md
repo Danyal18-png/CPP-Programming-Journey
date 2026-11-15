@@ -24,7 +24,7 @@ This folder contains my C++ programming practice and programs completed during W
 ## Program 1: Prime Number
 
 ### Source code
-    Week-2/PrimeNumber.cpp
+    [PrimeNumber.cpp](PrimeNumber.cpp)
 
 ### Output
     Enter your number: 9
