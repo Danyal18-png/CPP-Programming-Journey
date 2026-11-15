@@ -167,3 +167,15 @@ This program shows who we can calculate sum, product, multiplication and divisio
 
 ### Explanation
 This program shows who we can calculate the grade of any student using marks.
+
+## Program 11: Voting Eligible
+
+### Source code
+    Week-2/VotingEligible.cpp
+
+### Output
+    Enter your age: 20
+    Eligible to Vote
+
+### Explanation
+This program shows who we can calculate the eligible of person voting.
