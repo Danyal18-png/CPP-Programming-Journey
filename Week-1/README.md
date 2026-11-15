@@ -1,4 +1,4 @@
-# CPP-Programming-Journey
+# C++ Programming Journey
 My C++ programming practice, university exercises, and beginner projects.
 
 # Week 01 - C++ Programming
