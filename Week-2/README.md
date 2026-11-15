@@ -141,4 +141,17 @@ This program shows who we can calculate to print the numbers using do-while loop
     10
 
 ### Explanation
-his program shows who we can calculate to print the numbers using while loop.
+This program shows who we can calculate to print the numbers using while loop.
+
+## Program 9: Calculator
+
+### Source code
+    Week-2/Calculator.cpp
+
+### Output
+    Enter two numbers: 7 9
+    Enter operator (+,-,*,/): *
+    Result = 63
+
+### Explanation
+This program shows who we can calculate sum, product, multiplication and division of any two numbers.
