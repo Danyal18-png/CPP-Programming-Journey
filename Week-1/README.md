@@ -201,7 +201,7 @@ This program calculates the final salary by adding a bonus to the basic salary.
 
 ## Program 17: Perimeter of square
 
-**Source Code:** [PerimeterOfSquarecpp](./PerimeterOfSquarecpp)
+**Source Code:** [PerimeterOfSquare.cpp](./PerimeterOfSquare.cpp)
 
 ### Output
     Enter side of square: 5
