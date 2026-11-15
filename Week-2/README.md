@@ -197,7 +197,7 @@ This program checks whether a person is eligible to vote based on their age.
     9 is largest
 
 ### Explanation
-This program shows who we can calculate the largest of three numbers.
+This program finds the largest among three given numbers.
 
 ## Program 13: Largest of two numbers
 
