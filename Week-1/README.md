@@ -13,8 +13,7 @@ This folder contains my C++ programming practice and programs completed during W
   
 ## Program 1: Hello World
 
-### Source code
-    Week-1/HelloWorld.cpp
+**Source Code:** [HelloWorld.cpp](./HelloWorld.cpp)
 
 ### Output
     Hello World!
@@ -24,8 +23,7 @@ This program displays Hello World! on the screen.
 
 ## Program 2: Sum of Two Numbers
 
-### Source code
-    Week-1/SumOfTwoNumbers.cpp
+**Source Code:** [SumOfTwoNumbers.cpp](./SumOfTwoNumbers.cpp)
 
 ### Output
     Enter first number: 10
@@ -36,8 +34,7 @@ This program takes two numbers from the user and displays their sum.
 
 ## Program 3: Swapping Two Numbers
 
-### Source code
-    Week-1/SwappingTwoNumbers.cpp
+**Source Code:** [SwappingTwoNumbers.cpp](./SwappingTwoNumbers.cpp)
 
 ### Output
     Enter first number: 6
@@ -50,8 +47,7 @@ This program shows how to take two numbers from user and swapping them.
 
 ## Program 4: Area of Rectangle
 
-### Source code
-    Week-1/AreaOfRectangle.cpp
+**Source Code:** [AreaOfRectangle.cpp](./AreaOfRectangle.cpp)
     
 ### Output
     Enter your length: 5.8
@@ -62,8 +58,7 @@ This program shows the area of rectangle.
 
 ## Program 5: Final Price after giving Discount
 
-### Source code
-    Week-1/FinalPriceAfterDiscount.cpp
+**Source Code:** [FinalPriceAfterDiscount.cpp](./FinalPriceAfterDiscount.cpp)
 
 ### Output
     Enter product price: 5890
@@ -75,8 +70,7 @@ This program shows the total price after giving discount to the customer.
 
 ## Program 6: Days into weeks and years
 
-### Source code
-    Week-1/DaysIntoWeeksYears.cpp
+**Source Code:** [DaysIntoWeeksYears.cpp](./DaysIntoWeeksYears.cpp)
 
 ### Output
     Enter total days: 785
@@ -89,8 +83,7 @@ This program shows how to convert days into weeks, years and remaining days.
 
 ## Program 7: Gross Salary
 
-### Source code
-    Week-1/GrossSalary.cpp
+**Source Code:** [GrossSalary.cpp](./GrossSalary.cpp)
 
 ### Output
     Enter basic salary: 67000
@@ -103,8 +96,7 @@ This program shows how we can calculate gross salary.
 
 ## Program 8: Height from Inches
 
-### Source code
-    Week-1/HeightFromInches.cpp
+**Source Code:** [HeightFromInches.cpp](./HeightFromInches.cpp)
 
 ### Output
     Enter your height: 5.6
@@ -115,8 +107,7 @@ This program converts a given height from inches into centimeters using the conv
 
 ## Program 9: Power of Number
 
-### Source code
-    Week-1/PowerOfNumber.cpp
+**Source Code:** [PowerOfNumber.cpp](./PowerOfNumber.cpp)
     
 ### Output
     Enter your number: 7
@@ -128,8 +119,7 @@ This program shows how we can calculate power of any number.
 
 ## Program 10: Quotient and Remainder
 
-### Source code
-    Week-1/QuotientAndRemainder.cpp
+**Source Code:** [QuotientAndRemainder.cpp](./QuotientAndRemainder.cpp)
 
 ### Output
     Enter two numbers: 10 6
@@ -141,8 +131,7 @@ This program shows how we can calculate quotient and remainder of any two number
 
 ## Program 11: Average of Three Numbers
 
-### Source code
-    Week-1/AverageOfThreeNumbers.cpp
+**Source Code:** [AverageOfThreeNumbers.cpp](./AverageOfThreeNumbers.cpp)
 
 ### Output
     Enter three numbers: 9 3 8
@@ -153,8 +142,7 @@ This program shows how we can calculate the average of any three numbers.
 
 ## Program 12: Perimeter of Rectangle
 
-### Source code
-    Week-1/PerimeterOfRectangle.cpp
+**Source Code:** [PerimeterOfRectangle.cpp](./PerimeterOfRectangle.cpp)
 
 ### Output
     Enter your length: 5.7
@@ -166,8 +154,7 @@ This program shows how we can calculate perimeter of rectangle.
 
 ## Program 13: Area of Circle
 
-### Source code
-    Week-1/AreaOfCircle.cpp
+**Source Code:** [AreaOfCircle.cpp](./AreaOfCircle.cpp)
 
 ### Output
     Enter your radius: 6.7
@@ -178,8 +165,7 @@ This program calculates the area of a circle using the formula A = π × r × r,
 
 ## Program 14: Celsius to Fahrenheit
 
-### Source code
-    Week-1/CelsiusIntoFahrenheit.cpp
+**Source Code:** [CelsiusIntoFahrenheit.cpp](./CelsiusIntoFahrenheit.cpp)
 
 ### Output
     Enter temperature in celsius: 28
@@ -190,8 +176,7 @@ This program converts temperature from Celsius to Fahrenheit using the formula F
 
 ## Program 15: Seconds into minutes and hours
 
-### Source code
-    Week-1/SecondsIntoMinutesAndHours.cpp
+**Source Code:** [SecondsIntoMinutesAndHours.cpp](./SecondsIntoMinutesAndHours.cpp)
 
 ### Output
     Enter total seconds: 579000
@@ -204,8 +189,7 @@ This program converts a given time in seconds into hours, remaining minutes, and
 
 ## Program 16: Final Salary
 
-### Source code
-    Week-1/FinalSalary.cpp
+**Source Code:** [FinalSalary.cpp](./FinalSalary.cpp)
 
 ### Output
     Enter basic salary: 52000
@@ -217,8 +201,7 @@ This program calculates the final salary by adding a bonus to the basic salary.
 
 ## Program 17: Perimeter of square
 
-### Source code
-    Week-1/PerimeterOfSquare.cpp
+**Source Code:** [PerimeterOfSquarecpp](./PerimeterOfSquarecpp)
 
 ### Output
     Enter side of square: 5
@@ -229,8 +212,7 @@ This program calculates the perimeter of a square using four times its side leng
 
 ## Program 18: Marks and Percentage
 
-### Source code
-    Week-1/MarksAndPercentage.cpp
+**Source Code:** [MarksAndPercentage.cpp](./MarksAndPercentage.cpp)
 
 ### Output
     Enter marks of five subjects: 60 50 40 90 80
