@@ -20,7 +20,7 @@ This folder contains my second week C++ programs.
 - Factorial
 - Prime Number
 - Problem Solving Using Loops
-- 
+
 ## Program 1: Prime Number
 
 ### Source code
