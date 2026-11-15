@@ -233,7 +233,7 @@ This program checks whether a given number is positive, negative, or zero.
     Even Number
 
 ### Explanation
-This program shows who we can calculate the odd or even of any number.
+This program checks whether a given number is odd or even.
 
 ## Program 16: Using for Loop
 
