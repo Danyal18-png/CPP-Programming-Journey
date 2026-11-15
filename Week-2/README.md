@@ -33,7 +33,7 @@ This folder contains my second week C++ programs.
 ### Explanation
 This program checks whether a given number is prime or not.
 
-## Program 2: Sum of natural numbers
+## Program 2: Sum of Natural Numbers
 
 ### Source code
     Week-2/SumOFNaturalNumbers.cpp
@@ -57,7 +57,7 @@ This program calculates the sum of natural numbers up to a given number.
 ### Explanation
 This program generates the Fibonacci series up to a given number of terms.
 
-## Program 4: Reverse counting
+## Program 4: Reverse Counting
 
 ### Source code
     Week-2/ReverseCounting.cpp
@@ -163,7 +163,7 @@ This program prints numbers from 1 to 10 using a while loop.
 ### Explanation
 This program performs addition, subtraction, multiplication, and division on two numbers.
 
-## Program 10: Grade according to Marks
+## Program 10: Grade According to Marks
 
 ### Source code
     Week-2/GradeAccordingToMarks.cpp
@@ -187,7 +187,7 @@ This program determines a student's grade based on their marks.
 ### Explanation
 This program checks whether a person is eligible to vote based on their age.
 
-## Program 12: Largest of three numbers
+## Program 12: Largest of Three Numbers
 
 ### Source code
     Week-2/LargestOfThreeNumbers.cpp
@@ -199,7 +199,7 @@ This program checks whether a person is eligible to vote based on their age.
 ### Explanation
 This program finds the largest among three given numbers.
 
-## Program 13: Largest of two numbers
+## Program 13: Largest of Two Numbers
 
 ### Source code
     Week-2/LargestOfTwoNumbers.cpp
