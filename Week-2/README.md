@@ -215,3 +215,15 @@ This program shows who we can calculate the largest of two numbers.
 
 ### Explanation
 This program shows who we can calculate the positive, negative or zero.
+
+## Program 15: Odd or Even
+
+### Source code
+    Week-2/OddOrEven.cpp
+
+### Output
+    Enter your number: 6
+    Even Number
+
+### Explanation
+This program shows who we can calculate the odd or even of any number.
