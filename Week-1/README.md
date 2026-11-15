@@ -2,8 +2,7 @@
 My C++ programming practice, university exercises, and beginner projects.
 
 ## Week 1: C++ Programming
-This folder contains my first week C++ programs.
-
+This folder contains my C++ programming practice and programs completed during Week 1.
 ## Topics
 - Basic Structure of C++
 - Variables and Data Types
