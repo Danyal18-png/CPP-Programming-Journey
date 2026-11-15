@@ -185,7 +185,7 @@ This program determines a student's grade based on their marks.
     Eligible to Vote
 
 ### Explanation
-This program shows who we can calculate the eligible of person voting.
+This program checks whether a person is eligible to vote based on their age.
 
 ## Program 12: Largest of three numbers
 
