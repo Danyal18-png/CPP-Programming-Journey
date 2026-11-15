@@ -191,3 +191,15 @@ This program shows who we can calculate the eligible of person voting.
 
 ### Explanation
 This program shows who we can calculate the largest of three numbers.
+
+## Program 13: Largest of two numbers
+
+### Source code
+    Week-2/LargestOfTwoNumbers.cpp
+
+### Output
+    Enter two numbers: 6 9
+    9 is largest
+
+### Explanation
+This program shows who we can calculate the largest of two numbers.
