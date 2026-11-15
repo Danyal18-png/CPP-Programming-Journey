@@ -253,4 +253,4 @@ This program checks whether a given number is odd or even.
     10
 
 ### Explanation
-This program shows who we can calculate to print the numbers using for loop.
+This program prints numbers from 1 to 10 using a for loop.
