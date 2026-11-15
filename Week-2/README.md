@@ -108,7 +108,7 @@ This program calculates the factorial of a given number.
     7X10=70
 
 ### Explanation
-This program shows who we can calculate the table of any number.
+This program prints the multiplication table of a given number.
 
 ## Program 7: Using do-while Loop
 
