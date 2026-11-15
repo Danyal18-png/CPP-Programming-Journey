@@ -13,3 +13,15 @@ This folder contains my second week C++ programs.
 - Relational Operators
 - Logical Operators
 - Conditional Problem Solving
+
+## Program 1: Prime Number
+
+### Source code
+    Week-2/PrimeNumber.cpp
+
+### Output
+    Enter your number: 9
+    Not a Prime number
+
+### Explanation
+This program shows who we can calculate or check whether the number is prime or not.
