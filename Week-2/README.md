@@ -128,7 +128,7 @@ This program prints the multiplication table of a given number.
     10
 
 ### Explanation
-This program shows who we can calculate to print the numbers using do-while loop.
+This program prints numbers from 1 to 10 using a do-while loop.
 
 ## Program 8: Using while Loop
 
