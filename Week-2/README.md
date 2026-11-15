@@ -148,7 +148,7 @@ This program prints numbers from 1 to 10 using a do-while loop.
     10
 
 ### Explanation
-This program shows who we can calculate to print the numbers using while loop.
+This program prints numbers from 1 to 10 using a while loop.
 
 ## Program 9: Calculator
 
