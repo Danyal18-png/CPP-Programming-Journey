@@ -161,7 +161,7 @@ This program prints numbers from 1 to 10 using a while loop.
     Result = 63
 
 ### Explanation
-This program shows who we can calculate sum, product, multiplication and division of any two numbers.
+This program performs addition, subtraction, multiplication, and division on two numbers.
 
 ## Program 10: Grade according to Marks
 
