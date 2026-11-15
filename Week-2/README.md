@@ -37,3 +37,15 @@ This program shows who we can calculate or check whether the number is prime or 
 
 ### Explanation
 This program shows who we can calculate sum of any natural number.
+
+## Program 3: Fabonacci series
+
+### Source code
+    Week-2/FabonacciSeries.cpp
+
+### Output
+    Enter number of terms: 9
+    0 1 1 2 3 5 8 13 21 
+
+### Explanation
+This program shows who we can calculate fabonacci series of any number of terms.
