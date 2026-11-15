@@ -45,7 +45,7 @@ This program checks whether a given number is prime or not.
 ### Explanation
 This program calculates the sum of natural numbers up to a given number.
 
-## Program 3: Fabonacci Series
+## Program 3: Fibonacci Series
 
 ### Source code
     Week-2/FabonacciSeries.cpp
@@ -75,7 +75,7 @@ This program generates the Fibonacci series up to a given number of terms.
     1
 
 ### Explanation
-This program shows who we can calculate the reverse counting.
+This program prints numbers in reverse order, from 10 to 1.
 
 ## Program 5: Factorial
 
